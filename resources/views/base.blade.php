@@ -9,17 +9,6 @@
     </title>
 </head>
 <body>
-
-<style>
-	* {
-		font-family: sans-serif;
-		padding: 5px;
-		margin: 5px;
-	}
-</style>
-
-@yield('content')
-
-
+    @yield('content')
 </body>
 </html>
