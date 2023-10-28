@@ -1,8 +1,6 @@
 @extends('base', ['title' => 'Laravel'])
 
-@section('header')
-Laravel
-@stop
+@section('header', 'Laravel')
 
 @section('content')
     <h2>Questions</h2>
